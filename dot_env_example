@@ -1,0 +1,5 @@
+LISTEN_NGINX_HTTP=127.0.0.1:8080
+LISTEN_NGINX_HTTPS=127.0.0.1:8484
+
+# The Nginx configuration file. Has the server name, paths to SSL certs, etc.
+NGINX_CONFIG=default.development.conf
