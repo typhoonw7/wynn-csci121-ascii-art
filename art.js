@@ -1,4 +1,4 @@
-var ART = [
+const ART = [
   {"title": "Owl",
    "filename": "owl.txt",
    "credit_text": "Donovan Bake",
