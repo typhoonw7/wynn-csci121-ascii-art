@@ -11,4 +11,8 @@ const ART = [
    "filename": "CatBox.txt",
    "credit_text": "HJS",
    "credit_url": "https://www.asciiart.eu/animals/cats"},
+  {"title": "Keyboard",
+   "filename": "keyboard.txt",
+   "credit_text": "hjw",
+   "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
 ];
