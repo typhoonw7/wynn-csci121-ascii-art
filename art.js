@@ -15,4 +15,8 @@ const ART = [
    "filename": "keyboard.txt",
    "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+  {"title": "Eeyore",
+   "filename": "eeyore-art.txt",
+   "credit_text": "jgs",
+   "credit_url": "asciiart.eu/books/winnie-the-pooh"},
 ];
