@@ -15,4 +15,8 @@ const ART = [
    "filename": "keyboard.txt",
    "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+  {"title": "Mushroom",
+   "filename": "mushroom.txt",
+   "credit_text": "itz",
+   "credit_url": "https://www.asciiart.eu/plants/mushroom"},
 ];
