@@ -15,4 +15,8 @@ const ART = [
    "filename": "keyboard.txt",
    "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+   {"title": "Cute Cat",
+   "filename": "bk_cat.txt",
+   "credit_text": "",
+   "credit_url": "https://emojicombos.com/boykisser"},
 ];
