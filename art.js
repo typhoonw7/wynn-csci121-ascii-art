@@ -15,4 +15,8 @@ const ART = [
    "filename": "keyboard.txt",
    "credit_text": "hjw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+  {"title": "Statue of Liberty",
+   "filename": "statueOfLiberty.txt",
+   "credit_text": "Joan Stark",
+   "credit_url": "https://www.asciiart.eu/buildings-and-places/monuments/statue-of-liberty"},
 ];
