@@ -36,4 +36,8 @@ const ART = [
    "filename": "statueOfLiberty.txt",
    "credit_text": "Joan Stark",
    "credit_url": "https://www.asciiart.eu/buildings-and-places/monuments/statue-of-liberty"},
+  {"title": "Dice",
+   "filename": "dice.txt",
+   "credit_text": "Joan G Stark",
+   "credit_url": "https://www.asciiart.eu/miscellaneous/dice"}
 ];
